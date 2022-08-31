@@ -147,7 +147,7 @@ class CuentaJoven (Cuenta):
 
 
 
-# Testeando clases
+
 
 print("------------------------------------------------------------------")
 persona_sin_datos = Persona()
