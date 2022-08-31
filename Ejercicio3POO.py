@@ -1,3 +1,5 @@
+# EJERCICIOS 1, 2 y 3 DE POO.   Romero Albornoz Juan Cruz 
+
 class Persona:
     def __init__(self, nombre=None, edad=None, DNI=None):
         self.set_nombre(nombre)
